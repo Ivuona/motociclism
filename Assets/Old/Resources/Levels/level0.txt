@@ -1,0 +1,1053 @@
+<?xml version="1.0" encoding="utf-8"?>
+<platforms>
+  <platform
+    name="StaticPlatform_0">
+    <coordonates
+      x="33.22553"
+      y="3.447455"
+      z="0" />
+    <scale
+      x="1"
+      y="1"
+      z="3" />
+    <rotation
+      x="0"
+      y="0"
+      z="25" />
+  </platform>
+  <platform
+    name="Wave_1">
+    <coordonates
+      x="10.22086"
+      y="2.436023"
+      z="0" />
+    <scale
+      x="1"
+      y="1"
+      z="1" />
+    <rotation
+      x="0"
+      y="0"
+      z="0" />
+  </platform>
+  <platform
+    name="StaticPlatform_2">
+    <coordonates
+      x="37.98658"
+      y="4.499671"
+      z="0" />
+    <scale
+      x="1"
+      y="1"
+      z="3" />
+    <rotation
+      x="0"
+      y="0"
+      z="0" />
+  </platform>
+  <platform
+    name="StaticPlatform_4">
+    <coordonates
+      x="43.05033"
+      y="4.475165"
+      z="0" />
+    <scale
+      x="1"
+      y="1"
+      z="3" />
+    <rotation
+      x="0"
+      y="0"
+      z="0" />
+  </platform>
+  <platform
+    name="Supports_5">
+    <coordonates
+      x="35.19124"
+      y="4.508632"
+      z="0" />
+    <scale
+      x="1"
+      y="1"
+      z="1" />
+    <rotation
+      x="0"
+      y="0"
+      z="0" />
+  </platform>
+  <platform
+    name="Supports_6">
+    <coordonates
+      x="35.75312"
+      y="4.587264"
+      z="0" />
+    <scale
+      x="1"
+      y="1"
+      z="1" />
+    <rotation
+      x="0"
+      y="0"
+      z="0" />
+  </platform>
+  <platform
+    name="Supports_7">
+    <coordonates
+      x="40.11675"
+      y="4.610985"
+      z="0" />
+    <scale
+      x="1"
+      y="1"
+      z="1" />
+    <rotation
+      x="0"
+      y="0"
+      z="0" />
+  </platform>
+  <platform
+    name="Supports_8">
+    <coordonates
+      x="45.17772"
+      y="4.526029"
+      z="0" />
+    <scale
+      x="1"
+      y="1"
+      z="1" />
+    <rotation
+      x="0"
+      y="0"
+      z="0" />
+  </platform>
+  <platform
+    name="Wave_9">
+    <coordonates
+      x="62.80253"
+      y="2.472995"
+      z="0" />
+    <scale
+      x="1"
+      y="1"
+      z="1" />
+    <rotation
+      x="0"
+      y="0"
+      z="0" />
+  </platform>
+  <platform
+    name="StaticPlatform_10">
+    <coordonates
+      x="81.86969"
+      y="3.467933"
+      z="0" />
+    <scale
+      x="1"
+      y="1"
+      z="3" />
+    <rotation
+      x="0"
+      y="0"
+      z="25" />
+  </platform>
+  <platform
+    name="StaticPlatform_11">
+    <coordonates
+      x="86.65109"
+      y="4.495704"
+      z="0" />
+    <scale
+      x="1"
+      y="1"
+      z="3" />
+    <rotation
+      x="0"
+      y="0"
+      z="0" />
+  </platform>
+  <platform
+    name="StaticPlatform_12">
+    <coordonates
+      x="91.3558"
+      y="5.523566"
+      z="0" />
+    <scale
+      x="1"
+      y="1"
+      z="3" />
+    <rotation
+      x="0"
+      y="0"
+      z="25" />
+  </platform>
+  <platform
+    name="Supports_13">
+    <coordonates
+      x="83.85555"
+      y="4.531775"
+      z="0" />
+    <scale
+      x="1"
+      y="1"
+      z="1" />
+    <rotation
+      x="0"
+      y="0"
+      z="0" />
+  </platform>
+  <platform
+    name="Supports_14">
+    <coordonates
+      x="84.44375"
+      y="4.629916"
+      z="0" />
+    <scale
+      x="1"
+      y="1"
+      z="1" />
+    <rotation
+      x="0"
+      y="0"
+      z="0" />
+  </platform>
+  <platform
+    name="Supports_15">
+    <coordonates
+      x="88.88374"
+      y="4.578744"
+      z="0" />
+    <scale
+      x="1"
+      y="1"
+      z="1" />
+    <rotation
+      x="0"
+      y="0"
+      z="0" />
+  </platform>
+  <platform
+    name="Supports_16">
+    <coordonates
+      x="89.34034"
+      y="4.725327"
+      z="0" />
+    <scale
+      x="1"
+      y="1"
+      z="1" />
+    <rotation
+      x="0"
+      y="0"
+      z="0" />
+  </platform>
+  <platform
+    name="Supports_17">
+    <coordonates
+      x="93.33322"
+      y="6.52934"
+      z="0" />
+    <scale
+      x="1"
+      y="1"
+      z="1" />
+    <rotation
+      x="0"
+      y="0"
+      z="0" />
+  </platform>
+  <platform
+    name="StaticPlatform_18">
+    <coordonates
+      x="96.13361"
+      y="6.575751"
+      z="0" />
+    <scale
+      x="1"
+      y="1"
+      z="3" />
+    <rotation
+      x="0"
+      y="0"
+      z="0" />
+  </platform>
+  <platform
+    name="Supports_19">
+    <coordonates
+      x="93.93542"
+      y="6.687058"
+      z="0" />
+    <scale
+      x="1"
+      y="1"
+      z="1" />
+    <rotation
+      x="0"
+      y="0"
+      z="0" />
+  </platform>
+  <platform
+    name="Supports_20">
+    <coordonates
+      x="98.32201"
+      y="6.670539"
+      z="0" />
+    <scale
+      x="1"
+      y="1"
+      z="1" />
+    <rotation
+      x="0"
+      y="0"
+      z="0" />
+  </platform>
+  <platform
+    name="StaticPlatform_21">
+    <coordonates
+      x="101.207"
+      y="6.575751"
+      z="0" />
+    <scale
+      x="1"
+      y="1"
+      z="3" />
+    <rotation
+      x="0"
+      y="0"
+      z="0" />
+  </platform>
+  <platform
+    name="Supports_22">
+    <coordonates
+      x="98.96146"
+      y="6.682465"
+      z="0" />
+    <scale
+      x="1"
+      y="1"
+      z="1" />
+    <rotation
+      x="0"
+      y="0"
+      z="0" />
+  </platform>
+  <platform
+    name="Supports_23">
+    <coordonates
+      x="103.3728"
+      y="6.686827"
+      z="0" />
+    <scale
+      x="1"
+      y="1"
+      z="1" />
+    <rotation
+      x="0"
+      y="0"
+      z="0" />
+  </platform>
+  <platform
+    name="Wheel_24">
+    <coordonates
+      x="109.1281"
+      y="3.839837"
+      z="0" />
+    <scale
+      x="1"
+      y="1"
+      z="1" />
+    <rotation
+      x="0"
+      y="0"
+      z="0" />
+  </platform>
+  <platform
+    name="StaticPlatform_25">
+    <coordonates
+      x="122.8419"
+      y="3.296638"
+      z="0" />
+    <scale
+      x="1"
+      y="1"
+      z="3" />
+    <rotation
+      x="0"
+      y="0"
+      z="20" />
+  </platform>
+  <platform
+    name="StaticPlatform_26">
+    <coordonates
+      x="127.7159"
+      y="4.128638"
+      z="0" />
+    <scale
+      x="1"
+      y="1"
+      z="3" />
+    <rotation
+      x="0"
+      y="0"
+      z="0" />
+  </platform>
+  <platform
+    name="Supports_27">
+    <coordonates
+      x="124.8577"
+      y="4.166578"
+      z="0" />
+    <scale
+      x="1"
+      y="1"
+      z="1" />
+    <rotation
+      x="0"
+      y="0"
+      z="0" />
+  </platform>
+  <platform
+    name="Supports_28">
+    <coordonates
+      x="125.4432"
+      y="4.315644"
+      z="0" />
+    <scale
+      x="1"
+      y="1"
+      z="1" />
+    <rotation
+      x="0"
+      y="0"
+      z="0" />
+  </platform>
+  <platform
+    name="Supports_29">
+    <coordonates
+      x="129.9119"
+      y="4.208967"
+      z="0" />
+    <scale
+      x="1"
+      y="1"
+      z="1" />
+    <rotation
+      x="0"
+      y="0"
+      z="0" />
+  </platform>
+  <platform
+    name="StaticPlatform_32">
+    <coordonates
+      x="132.552"
+      y="4.985145"
+      z="0" />
+    <scale
+      x="1"
+      y="1"
+      z="3" />
+    <rotation
+      x="0"
+      y="0"
+      z="20" />
+  </platform>
+  <platform
+    name="Supports_33">
+    <coordonates
+      x="130.4445"
+      y="4.314238"
+      z="0" />
+    <scale
+      x="1"
+      y="1"
+      z="1" />
+    <rotation
+      x="0"
+      y="0"
+      z="0" />
+  </platform>
+  <platform
+    name="Supports_34">
+    <coordonates
+      x="134.5938"
+      y="5.853459"
+      z="0" />
+    <scale
+      x="1"
+      y="1"
+      z="1" />
+    <rotation
+      x="0"
+      y="0"
+      z="0" />
+  </platform>
+  <platform
+    name="StaticPlatform_35">
+    <coordonates
+      x="137.44"
+      y="5.817145"
+      z="0" />
+    <scale
+      x="1"
+      y="1"
+      z="3" />
+    <rotation
+      x="0"
+      y="0"
+      z="0" />
+  </platform>
+  <platform
+    name="Supports_36">
+    <coordonates
+      x="135.2014"
+      y="5.93334"
+      z="0" />
+    <scale
+      x="1"
+      y="1"
+      z="1" />
+    <rotation
+      x="0"
+      y="0"
+      z="0" />
+  </platform>
+  <platform
+    name="Supports_37">
+    <coordonates
+      x="139.588"
+      y="5.916821"
+      z="0" />
+    <scale
+      x="1"
+      y="1"
+      z="1" />
+    <rotation
+      x="0"
+      y="0"
+      z="0" />
+  </platform>
+  <platform
+    name="StaticPlatform_38">
+    <coordonates
+      x="142.2597"
+      y="4.911719"
+      z="0" />
+    <scale
+      x="1"
+      y="1"
+      z="3" />
+    <rotation
+      x="0"
+      y="0"
+      z="160" />
+  </platform>
+  <platform
+    name="StaticPlatform_39">
+    <coordonates
+      x="147.1506"
+      y="4.055213"
+      z="0" />
+    <scale
+      x="1"
+      y="1"
+      z="3" />
+    <rotation
+      x="0"
+      y="0"
+      z="0" />
+  </platform>
+  <platform
+    name="Supports_40">
+    <coordonates
+      x="140.1708"
+      y="5.748144"
+      z="0" />
+    <scale
+      x="1"
+      y="1"
+      z="1" />
+    <rotation
+      x="0"
+      y="0"
+      z="0" />
+  </platform>
+  <platform
+    name="Supports_41">
+    <coordonates
+      x="144.2901"
+      y="4.237861"
+      z="0" />
+    <scale
+      x="1"
+      y="1"
+      z="1" />
+    <rotation
+      x="0"
+      y="0"
+      z="0" />
+  </platform>
+  <platform
+    name="Supports_42">
+    <coordonates
+      x="144.9124"
+      y="4.178608"
+      z="0" />
+    <scale
+      x="1"
+      y="1"
+      z="1" />
+    <rotation
+      x="0"
+      y="0"
+      z="0" />
+  </platform>
+  <platform
+    name="Supports_43">
+    <coordonates
+      x="149.2757"
+      y="4.11573"
+      z="0" />
+    <scale
+      x="1"
+      y="1"
+      z="1" />
+    <rotation
+      x="0"
+      y="0"
+      z="0" />
+  </platform>
+  <platform
+    name="StaticPlatform_44">
+    <coordonates
+      x="152.1945"
+      y="4.030738"
+      z="0" />
+    <scale
+      x="1"
+      y="1"
+      z="3" />
+    <rotation
+      x="0"
+      y="0"
+      z="0" />
+  </platform>
+  <platform
+    name="Supports_45">
+    <coordonates
+      x="149.9262"
+      y="4.127508"
+      z="0" />
+    <scale
+      x="1"
+      y="1"
+      z="1" />
+    <rotation
+      x="0"
+      y="0"
+      z="0" />
+  </platform>
+  <platform
+    name="Supports_46">
+    <coordonates
+      x="154.3326"
+      y="4.107134"
+      z="0" />
+    <scale
+      x="1"
+      y="1"
+      z="1" />
+    <rotation
+      x="0"
+      y="0"
+      z="0" />
+  </platform>
+  <platform
+    name="StaticPlatform_47">
+    <coordonates
+      x="157.0702"
+      y="4.887275"
+      z="0" />
+    <scale
+      x="1"
+      y="1"
+      z="3" />
+    <rotation
+      x="0"
+      y="0"
+      z="20" />
+  </platform>
+  <platform
+    name="Supports_48">
+    <coordonates
+      x="154.9102"
+      y="4.243992"
+      z="0" />
+    <scale
+      x="1"
+      y="1"
+      z="1" />
+    <rotation
+      x="0"
+      y="0"
+      z="0" />
+  </platform>
+  <platform
+    name="Supports_49">
+    <coordonates
+      x="159.1142"
+      y="5.723126"
+      z="0" />
+    <scale
+      x="1"
+      y="1"
+      z="1" />
+    <rotation
+      x="0"
+      y="0"
+      z="0" />
+  </platform>
+  <platform
+    name="Tire_50">
+    <coordonates
+      x="162.2873"
+      y="2.481845"
+      z="0" />
+    <scale
+      x="0.8"
+      y="0.8"
+      z="0.8" />
+    <rotation
+      x="0"
+      y="0"
+      z="0" />
+  </platform>
+  <platform
+    name="Tire_51">
+    <coordonates
+      x="166.2727"
+      y="2.49726"
+      z="0" />
+    <scale
+      x="0.8"
+      y="0.8"
+      z="0.8" />
+    <rotation
+      x="0"
+      y="0"
+      z="0" />
+  </platform>
+  <platform
+    name="Tire_52">
+    <coordonates
+      x="164.3408"
+      y="2.838001"
+      z="0" />
+    <scale
+      x="0.8"
+      y="0.8"
+      z="0.8" />
+    <rotation
+      x="0"
+      y="0"
+      z="0" />
+  </platform>
+  <platform
+    name="Wave_53">
+    <coordonates
+      x="188.9977"
+      y="2.466209"
+      z="0" />
+    <scale
+      x="1"
+      y="1"
+      z="1" />
+    <rotation
+      x="0"
+      y="0"
+      z="0" />
+  </platform>
+  <platform
+    name="StaticPlatform_54">
+    <coordonates
+      x="209.7312"
+      y="3.26548"
+      z="0" />
+    <scale
+      x="1"
+      y="1"
+      z="3" />
+    <rotation
+      x="0"
+      y="0"
+      z="20" />
+  </platform>
+  <platform
+    name="Supports_55">
+    <coordonates
+      x="211.7487"
+      y="4.052397"
+      z="0" />
+    <scale
+      x="1"
+      y="1"
+      z="1" />
+    <rotation
+      x="0"
+      y="0"
+      z="0" />
+  </platform>
+  <platform
+    name="StaticPlatform_56">
+    <coordonates
+      x="214.4477"
+      y="4.978493"
+      z="0" />
+    <scale
+      x="1"
+      y="1"
+      z="3" />
+    <rotation
+      x="0"
+      y="0"
+      z="20" />
+  </platform>
+  <platform
+    name="Supports_57">
+    <coordonates
+      x="212.3534"
+      y="4.324211"
+      z="0" />
+    <scale
+      x="1"
+      y="1"
+      z="1" />
+    <rotation
+      x="0"
+      y="0"
+      z="0" />
+  </platform>
+  <platform
+    name="Supports_58">
+    <coordonates
+      x="216.452"
+      y="5.847155"
+      z="0" />
+    <scale
+      x="1"
+      y="1"
+      z="1" />
+    <rotation
+      x="0"
+      y="0"
+      z="0" />
+  </platform>
+  <platform
+    name="StaticPlatform_59">
+    <coordonates
+      x="219.1881"
+      y="6.691444"
+      z="0" />
+    <scale
+      x="1"
+      y="1"
+      z="3" />
+    <rotation
+      x="0"
+      y="0"
+      z="20" />
+  </platform>
+  <platform
+    name="Supports_60">
+    <coordonates
+      x="217.0622"
+      y="6.017129"
+      z="0" />
+    <scale
+      x="1"
+      y="1"
+      z="1" />
+    <rotation
+      x="0"
+      y="0"
+      z="0" />
+  </platform>
+  <platform
+    name="Supports_61">
+    <coordonates
+      x="221.158"
+      y="7.591053"
+      z="0" />
+    <scale
+      x="1"
+      y="1"
+      z="1" />
+    <rotation
+      x="0"
+      y="0"
+      z="0" />
+  </platform>
+  <platform
+    name="Cube2_62">
+    <coordonates
+      x="223.7047"
+      y="2.586284"
+      z="0" />
+    <scale
+      x="1"
+      y="1"
+      z="1" />
+    <rotation
+      x="0"
+      y="0"
+      z="0" />
+  </platform>
+  <platform
+    name="Cube2_63">
+    <coordonates
+      x="225.2249"
+      y="2.620993"
+      z="0" />
+    <scale
+      x="1"
+      y="1"
+      z="1" />
+    <rotation
+      x="0"
+      y="0"
+      z="0" />
+  </platform>
+  <platform
+    name="Cube2_64">
+    <coordonates
+      x="226.7726"
+      y="2.625629"
+      z="0" />
+    <scale
+      x="1"
+      y="1"
+      z="1" />
+    <rotation
+      x="0"
+      y="0"
+      z="0" />
+  </platform>
+  <platform
+    name="Cube2_65">
+    <coordonates
+      x="228.2832"
+      y="2.635078"
+      z="0" />
+    <scale
+      x="1"
+      y="1"
+      z="1" />
+    <rotation
+      x="0"
+      y="0"
+      z="0" />
+  </platform>
+  <platform
+    name="Cube2_66">
+    <coordonates
+      x="224.4632"
+      y="4.038862"
+      z="0" />
+    <scale
+      x="1"
+      y="1"
+      z="1" />
+    <rotation
+      x="0"
+      y="0"
+      z="0" />
+  </platform>
+  <platform
+    name="Cube2_67">
+    <coordonates
+      x="224.4118"
+      y="5.447547"
+      z="0" />
+    <scale
+      x="1"
+      y="1"
+      z="1" />
+    <rotation
+      x="0"
+      y="0"
+      z="0" />
+  </platform>
+  <platform
+    name="Ramp2_68">
+    <coordonates
+      x="230.0737"
+      y="2.688224"
+      z="0" />
+    <scale
+      x="1"
+      y="1"
+      z="1" />
+    <rotation
+      x="0"
+      y="0"
+      z="0" />
+  </platform>
+  <platform
+    name="FinishLine_69">
+    <coordonates
+      x="247.0263"
+      y="2.684852"
+      z="0" />
+    <scale
+      x="0.3699459"
+      y="0.1703502"
+      z="0.3937008" />
+    <rotation
+      x="0"
+      y="0"
+      z="0" />
+  </platform>
+  <platform
+    name="CheckPoint_70">
+    <coordonates
+      x="50.32428"
+      y="2.513526"
+      z="0" />
+    <scale
+      x="0.3699459"
+      y="0.1703502"
+      z="0.3937008" />
+    <rotation
+      x="0"
+      y="0"
+      z="0" />
+  </platform>
+  <platform
+    name="CheckPoint_71">
+    <coordonates
+      x="119.2482"
+      y="2.440101"
+      z="0" />
+    <scale
+      x="0.3699459"
+      y="0.1703502"
+      z="0.3937008" />
+    <rotation
+      x="0"
+      y="0"
+      z="0" />
+  </platform>
+  <platform
+    name="CheckPoint_72">
+    <coordonates
+      x="178.5864"
+      y="2.440131"
+      z="0" />
+    <scale
+      x="0.3699459"
+      y="0.1703502"
+      z="0.3937008" />
+    <rotation
+      x="0"
+      y="0"
+      z="0" />
+  </platform>
+</platforms>

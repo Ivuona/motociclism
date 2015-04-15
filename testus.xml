@@ -1,0 +1,168 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<platforms>
+  <platform
+    name="StaticPlatform_0">
+    <coordonates
+      x="6.43143"
+      y="3.722388"
+      z="0" />
+    <scale
+      x="1"
+      y="1"
+      z="1" />
+    <rotation
+      x="0"
+      y="0"
+      z="40" />
+  </platform>
+  <platform
+    name="StaticPlatform_1">
+    <coordonates
+      x="10.86893"
+      y="5.190711"
+      z="0" />
+    <scale
+      x="1"
+      y="1"
+      z="1" />
+    <rotation
+      x="0"
+      y="0"
+      z="0" />
+  </platform>
+  <platform
+    name="StaticPlatform_2">
+    <coordonates
+      x="15.90018"
+      y="5.249427"
+      z="0" />
+    <scale
+      x="1"
+      y="1"
+      z="1" />
+    <rotation
+      x="0"
+      y="0"
+      z="0" />
+  </platform>
+  <platform
+    name="StaticPlatform_3">
+    <coordonates
+      x="20.74393"
+      y="5.220069"
+      z="0" />
+    <scale
+      x="1"
+      y="1"
+      z="1" />
+    <rotation
+      x="0"
+      y="0"
+      z="0" />
+  </platform>
+  <platform
+    name="StaticPlatform_4">
+    <coordonates
+      x="25.11893"
+      y="7.011359"
+      z="0" />
+    <scale
+      x="1"
+      y="1"
+      z="1" />
+    <rotation
+      x="0"
+      y="0"
+      z="45" />
+  </platform>
+  <platform
+    name="StaticPlatform_5">
+    <coordonates
+      x="28.83768"
+      y="10.41773"
+      z="0" />
+    <scale
+      x="1"
+      y="1"
+      z="1" />
+    <rotation
+      x="0"
+      y="0"
+      z="40" />
+  </platform>
+  <platform
+    name="StaticPlatform_6">
+    <coordonates
+      x="33.27518"
+      y="12.01527"
+      z="0" />
+    <scale
+      x="1"
+      y="1"
+      z="1" />
+    <rotation
+      x="0"
+      y="0"
+      z="0" />
+  </platform>
+  <platform
+    name="StaticPlatform_7">
+    <coordonates
+      x="38.27518"
+      y="12.04465"
+      z="0" />
+    <scale
+      x="1"
+      y="1"
+      z="1" />
+    <rotation
+      x="0"
+      y="0"
+      z="0" />
+  </platform>
+  <platform
+    name="CheckPoint_8">
+    <coordonates
+      x="39.02518"
+      y="13.10181"
+      z="0" />
+    <scale
+      x="1.25"
+      y="1.25"
+      z="1" />
+    <rotation
+      x="0"
+      y="0"
+      z="0" />
+  </platform>
+  <platform
+    name="CrossPlatform_10">
+    <coordonates
+      x="48.69176"
+      y="12.07859"
+      z="0" />
+    <scale
+      x="1"
+      y="1"
+      z="1" />
+    <rotation
+      x="0"
+      y="0"
+      z="0" />
+  </platform>
+  <platform
+    name="FinishLine_11">
+    <coordonates
+      x="67.65018"
+      y="4.261269"
+      z="0" />
+    <scale
+      x="1.001135"
+      y="5.45253"
+      z="5" />
+    <rotation
+      x="0"
+      y="0"
+      z="0" />
+  </platform>
+</platforms>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+	<Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+	<Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+	<ProductVersion>10.0.20506</ProductVersion>
+	<SchemaVersion>2.0</SchemaVersion>
+	<ProjectGuid>{CA6C26DB-CE50-CBCF-E0E4-07D93009C850}</ProjectGuid>
+	<OutputType>Library</OutputType>
+	<AppDesignerFolder>Properties</AppDesignerFolder>
+	<RootNamespace></RootNamespace>
+	<AssemblyName>Assembly-UnityScript</AssemblyName>
+	<TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+	<FileAlignment>512</FileAlignment>
+	<BaseDirectory>Assets</BaseDirectory>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+	<DebugSymbols>true</DebugSymbols>
+	<DebugType>full</DebugType>
+	<Optimize>false</Optimize>
+	<OutputPath>Temp\bin\Debug\</OutputPath>
+	<DefineConstants>DEBUG;TRACE;UNITY_4_5_5;UNITY_4_5;UNITY_ANDROID;ENABLE_MICROPHONE;ENABLE_TEXTUREID_MAP;ENABLE_UNITYEVENTS;ENABLE_NEW_HIERARCHY ;ENABLE_AUDIO_FMOD;ENABLE_MONO;ENABLE_TERRAIN;ENABLE_SUBSTANCE;ENABLE_GENERICS;INCLUDE_WP8SUPPORT;ENABLE_WWW;ENABLE_IMAGEEFFECTS;INCLUDE_WP_BLUE_SUPPORT;ENABLE_WEBCAM;INCLUDE_METROSUPPORT;RENDER_SOFTWARE_CURSOR;ENABLE_NETWORK;ENABLE_PHYSICS;ENABLE_CACHING;ENABLE_CLOTH;UNITY_ANDROID_API;ENABLE_2D_PHYSICS;ENABLE_SHADOWS;ENABLE_AUDIO;ENABLE_NAVMESH_CARVING;ENABLE_SINGLE_INSTANCE_BUILD_SETTING;ENABLE_PROFILER;UNITY_EDITOR;UNITY_EDITOR_WIN;UNITY_TEAM_LICENSE;UNITY_PRO_LICENSE</DefineConstants>
+	<ErrorReport>prompt</ErrorReport>
+	<WarningLevel>4</WarningLevel>
+	<NoWarn>0169</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+	<DebugType>pdbonly</DebugType>
+	<Optimize>true</Optimize>
+	<OutputPath>Temp\bin\Release\</OutputPath>
+	<DefineConstants>TRACE</DefineConstants>
+	<ErrorReport>prompt</ErrorReport>
+	<WarningLevel>4</WarningLevel>
+	<NoWarn>0169</NoWarn>
+  </PropertyGroup>
+  <ItemGroup>
+	<Reference Include="System" />
+    <Reference Include="System.XML" />
+	<Reference Include="System.Core" />
+	<Reference Include="System.Xml.Linq" />
+	<Reference Include="UnityEngine">
+	  <HintPath>C:/Program Files (x86)/Unity/Editor/Data/Managed/UnityEngine.dll</HintPath>
+	</Reference>
+	<Reference Include="UnityEditor">
+	  <HintPath>C:/Program Files (x86)/Unity/Editor/Data/Managed/UnityEditor.dll</HintPath>
+	</Reference>
+  </ItemGroup>
+  <ItemGroup>
+     <Compile Include="Assets\Scripts\Bike\FPS increase.js" />
+     <Compile Include="Assets\Scripts\ShadowBike\CameraMove.js" />
+     <None Include="Assets\Old\Resources\Levels\level1.txt" />
+     <None Include="Assets\Old\Resources\Levels\levele originale\level1.txt" />
+     <None Include="Assets\Old\Resources\Levels\Levels 10 org\level13.txt" />
+     <None Include="Assets\Old\Resources\Levels\level2.txt" />
+     <None Include="Assets\Old\Resources\Levels\level4.txt" />
+     <None Include="Assets\Old\Resources\Levels\levele originale\level3.txt" />
+     <None Include="Assets\Old\Resources\Levels\Levels 10 org\level 14.txt" />
+     <None Include="Assets\Old\Resources\Levels\level6.txt" />
+     <None Include="Assets\Old\Resources\Levels\level3.txt" />
+     <None Include="Assets\Standard Assets\Particles\Sources\Shaders\Particle Alpha Blend (Queue +100).shader" />
+     <None Include="Assets\Old\Resources\Levels\level8.txt" />
+     <None Include="Assets\Old\Resources\Levels\levele originale\level4.txt" />
+     <None Include="Assets\Old\Resources\Levels\Levels 10 org\level6.txt" />
+     <None Include="Assets\Old\Resources\Levels\Levels 10 org\level19.txt" />
+     <None Include="Assets\Old\Resources\Levels\levele originale\level7.txt" />
+     <None Include="Assets\Old\Resources\Levels\level11.txt" />
+     <None Include="Assets\Old\Resources\Levels\levele originale\level0.txt" />
+     <None Include="Assets\Old\Resources\Levels\levele originale\level5.txt" />
+     <None Include="Assets\Old\Resources\Levels\Levels 10 org\level 18.txt" />
+     <None Include="Assets\Old\Resources\Levels\levele originale\level9.txt" />
+     <None Include="Assets\Standard Assets\Skyboxes\_skybox info.txt" />
+     <None Include="Assets\Old\Resources\Levels\levele originale\level10.txt" />
+     <None Include="Assets\Old\Resources\Levels\level14.txt" />
+     <None Include="Assets\Old\Resources\Levels\Levels 10 org\level 17 .txt" />
+     <None Include="Assets\Old\Resources\Levels\levele originale\level6.txt" />
+     <None Include="Assets\Old\Resources\Levels\Levels 10 org\level12.txt" />
+     <None Include="Assets\Old\Resources\Levels\Levels 10 org\level 19.txt" />
+     <None Include="Assets\Old\Resources\Levels\Levels 10 org\level 16 .txt" />
+     <None Include="Assets\Old\Resources\Levels\level0.txt" />
+     <None Include="Assets\Old\Resources\Levels\level12.txt" />
+     <None Include="Assets\Old\Resources\Levels\level15.txt" />
+     <None Include="Assets\Old\Resources\Levels\level17.txt" />
+     <None Include="Assets\Old\Resources\Levels\level16.txt" />
+     <None Include="Assets\Old\Resources\Levels\levele originale\level2.txt" />
+     <None Include="Assets\Old\Resources\Levels\level9.txt" />
+     <None Include="Assets\Old\Resources\Levels\levele originale\level8.txt" />
+     <None Include="Assets\Old\Resources\Levels\Levels 10 org\level 20.txt" />
+     <None Include="Assets\Old\Resources\Levels\level7.txt" />
+     <None Include="Assets\Old\Resources\Levels\level10.txt" />
+     <None Include="Assets\Old\Resources\Levels\Levels 10 org\level 13.txt" />
+     <None Include="Assets\Old\Resources\Levels\level13.txt" />
+     <None Include="Assets\Old\Resources\Levels\level5.txt" />
+     <None Include="Assets\Old\Resources\Levels\Levels 10 org\level 15.txt" />
+ <Reference Include="Assembly-UnityScript-firstpass">
+ <HintPath>C:/TrialBike/TrialBike_v4/TrialBike/Library/ScriptAssemblies/Assembly-UnityScript-firstpass.dll</HintPath>
+ </Reference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+	   Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  
+</Project>

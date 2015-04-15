@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<platforms>
+  <platform
+    name="FinishLine_0">
+    <coordonates
+      x="26.05643"
+      y="5.012917"
+      z="0" />
+    <scale
+      x="1.001135"
+      y="5.45253"
+      z="5" />
+    <rotation
+      x="0"
+      y="0"
+      z="0" />
+  </platform>
+  <platform
+    name="Cube2_1">
+    <coordonates
+      x="125.8991"
+      y="1.985484"
+      z="0" />
+    <scale
+      x="1"
+      y="1"
+      z="1" />
+    <rotation
+      x="0"
+      y="0"
+      z="0" />
+  </platform>
+  <platform
+    name="Coin_2">
+    <coordonates
+      x="126.4627"
+      y="4.719246"
+      z="0" />
+    <scale
+      x="1.25"
+      y="1.25"
+      z="1" />
+    <rotation
+      x="0"
+      y="0"
+      z="0" />
+  </platform>
+</platforms>
